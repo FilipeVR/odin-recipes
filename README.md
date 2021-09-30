@@ -1,0 +1,1 @@
+A little project developing a simple recipe list in html and training git skills.
